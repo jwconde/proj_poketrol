@@ -31,6 +31,7 @@ pokemon2.stats = {
 pokemon1.attacks = [Attack("scratch", "normal", PHYSICAL, 10, 10, 100)]
 pokemon2.attacks = [Attack("scratch", "normal", PHYSICAL, 10, 10, 100)]
 
+# se realiza segunda prueba
 
 def ask_command(pokemon):
     command = None
