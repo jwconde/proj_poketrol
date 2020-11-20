@@ -6,7 +6,7 @@ DEFENSE = "Defense"
 SPATTACK = "SpAttack"
 SPDEFENSE = "SpDefense"
 SPEED = "Speed"
-
+# comentario de prueba
 
 #Commands
 DO_ATTACK = "attack"
